@@ -1,5 +1,9 @@
 # BubbleGame
 Bubble Game
 Using HTML/CSS/JAVASCRIPT.
-With HIT SCORE TIMER on top panel
-with lots of bubble changing with evey hit 
+With 
+1)HIT 
+2)SCORE 
+3)TIMER
+With correct hit score gets +10 updated
+
