@@ -2,8 +2,6 @@
 Bubble Game
 Using HTML/CSS/JAVASCRIPT.
 With 
-
-
 1)HIT 
 2)SCORE 
 3)TIMER
